@@ -6,7 +6,7 @@ Aplicação web simples para controle de despesas pessoais, desenvolvida com foc
 
 ## 🚀 Acesse o projeto
 
-🔗 https://seuusuario.github.io/controle-gastos
+https://lucasanddevrj.github.io/controle-gastos/
 
 ---
 
